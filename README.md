@@ -13,7 +13,7 @@ node sample.js
 -check data trên db của mình.
 #### Các phần còn thiếu :
 ##### Xóa,sửa db:
-    dự kiến sẽ hoàn thành tối thứ 4:
+    dự kiến sẽ hoàn thành tối thứ 4 ( dã xong sửa )
 ##### Các logic nhỏ:
     - status xe,tài xế khi khởi tạo là available, sau khi gán cho .route chuyển thành busy, hết thời gian dự kiến trở về available
     - Tạo dữ liệu ảnh bằng lái và phương thức cập nhật bằng lái của tài xế.
